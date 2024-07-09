@@ -22,8 +22,8 @@ This project was developed using React.js, a popular JavaScript library for buil
 ## Getting Started
 To run the Movie Search and Viewer application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/movie-search-viewer.git`
-2. Navigate to the project directory: `cd movie-search-viewer`
+1. Clone the repository: `git clone https://github.com/Htet-2aung/React-Movie-App.git`
+2. Navigate to the project directory: `cd React-Movie-App`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your web browser and visit `http://localhost:3000`
