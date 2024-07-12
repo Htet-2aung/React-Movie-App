@@ -19,6 +19,10 @@ This project was developed using React.js, a popular JavaScript library for buil
 - JavaScript
 - Git and GitHub
 
+  ## Overview
+  ![Uploading photo_2024-07-12_21-43-25.jpg…]()
+
+
 ## Getting Started
 To run the Movie Search and Viewer application locally, follow these steps:
 
